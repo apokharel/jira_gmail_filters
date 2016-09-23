@@ -12,7 +12,7 @@
 		<id>tag:mail.google.com,2008:filter:1434029513076</id>
 		<updated>2015-06-11T13:43:02Z</updated>
 		<content></content>
-		<apps:property name='from' value='jira@barkleyus.com'/>
+		<apps:property name='from' value='jira@mediafriends.atlassian.net'/>
 		<apps:property name='label' value='_JIRA'/>
 		<apps:property name='shouldArchive' value='true'/>
 	</entry>
@@ -22,7 +22,7 @@
 		<id>tag:mail.google.com,2008:filter:1434029513352</id>
 		<updated>2015-06-11T13:43:02Z</updated>
 		<content></content>
-		<apps:property name='from' value='jira@barkleyus.com'/>
+		<apps:property name='from' value='jira@mediafriends.atlassian.net'/>
 		<apps:property name='subject' value='[JIRA]'/>
 		<apps:property name='hasTheWord' value='Closed'/>
 		<apps:property name='excludeChats' value='true'/>
@@ -37,7 +37,7 @@
 		<id>tag:mail.google.com,2008:filter:1434029513638</id>
 		<updated>2015-06-11T13:43:02Z</updated>
 		<content></content>
-		<apps:property name='from' value='jira@barkleyus.com'/>
+		<apps:property name='from' value='jira@mediafriends.atlassian.net'/>
 		<apps:property name='subject' value='[JIRA]'/>
 		<apps:property name='hasTheWord' value='commented'/>
 		<apps:property name='excludeChats' value='true'/>
@@ -52,7 +52,7 @@
 		<id>tag:mail.google.com,2008:filter:1434029827637</id>
 		<updated>2015-06-11T13:43:02Z</updated>
 		<content></content>
-		<apps:property name='from' value='jira@barkleyus.com'/>
+		<apps:property name='from' value='jira@mediafriends.atlassian.net'/>
 		<apps:property name='subject' value='[JIRA]'/>
 		<apps:property name='hasTheWord' value='Mentioned'/>
 		<apps:property name='label' value='_JIRA/Mentioned'/>
